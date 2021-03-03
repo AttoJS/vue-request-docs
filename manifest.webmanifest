@@ -1,0 +1,21 @@
+{
+  "name": "VueRequest",
+  "short_name": "VueRequest",
+  "description": "A request library for Vue 3.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "470x470",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo@100px.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    }
+  ]
+}
