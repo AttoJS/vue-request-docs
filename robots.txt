@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.attojs.com/baidu-sitemap.xml
+Sitemap: https://www.attojs.org/google-sitemap.xml
