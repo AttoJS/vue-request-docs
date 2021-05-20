@@ -1,100 +1,106 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://en.attojs.com/</loc>
-<lastmod>2021-05-20T01:33:49+00:00</lastmod>
+  <loc>https://en.attojs.com/</loc>
+  <lastmod>2021-05-20T02:30:38+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/introduction.html</loc>
-<lastmod>2021-05-20T01:33:48+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/introduction.html</loc>
+  <lastmod>2021-05-20T02:30:36+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/api/index.html</loc>
-<lastmod>2021-05-20T01:32:40+00:00</lastmod>
+  <loc>https://en.attojs.com/api/index.html</loc>
+  <lastmod>2021-05-20T02:29:29+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/getting-started.html</loc>
-<lastmod>2021-05-20T01:33:46+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/getting-started.html</loc>
+  <lastmod>2021-05-20T02:30:35+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/global-options.html</loc>
-<lastmod>2021-05-20T01:33:34+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/global-options.html</loc>
+  <lastmod>2021-05-20T02:30:23+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/default-request.html</loc>
-<lastmod>2021-05-20T01:33:31+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/default-request.html</loc>
+  <lastmod>2021-05-20T02:30:20+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/manual.html</loc>
-<lastmod>2021-05-20T01:33:37+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/manual.html</loc>
+  <lastmod>2021-05-20T02:30:25+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/mutate.html</loc>
-<lastmod>2021-05-20T01:33:38+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/mutate.html</loc>
+  <lastmod>2021-05-20T02:30:27+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/polling.html</loc>
-<lastmod>2021-05-20T01:33:39+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/polling.html</loc>
+  <lastmod>2021-05-20T02:30:28+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/queries.html</loc>
-<lastmod>2021-05-20T01:33:40+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/queries.html</loc>
+  <lastmod>2021-05-20T02:30:29+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/ready.html</loc>
-<lastmod>2021-05-20T01:33:41+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/ready.html</loc>
+  <lastmod>2021-05-20T02:30:30+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/debounce.html</loc>
-<lastmod>2021-05-20T01:33:30+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/debounce.html</loc>
+  <lastmod>2021-05-20T02:30:18+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/throttle.html</loc>
-<lastmod>2021-05-20T01:33:45+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/throttle.html</loc>
+  <lastmod>2021-05-20T02:30:34+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/cacheKey.html</loc>
-<lastmod>2021-05-20T01:33:29+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/cacheKey.html</loc>
+  <lastmod>2021-05-20T02:30:16+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/errorRetry.html</loc>
-<lastmod>2021-05-20T01:33:33+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/errorRetry.html</loc>
+  <lastmod>2021-05-20T02:30:21+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/loadingDelay.html</loc>
-<lastmod>2021-05-20T01:33:35+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/loadingDelay.html</loc>
+  <lastmod>2021-05-20T02:30:24+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/refreshDeps.html</loc>
-<lastmod>2021-05-20T01:33:43+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/refreshDeps.html</loc>
+  <lastmod>2021-05-20T02:30:31+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/refreshOnWindowFocus.html</loc>
-<lastmod>2021-05-20T01:33:44+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/refreshOnWindowFocus.html</loc>
+  <lastmod>2021-05-20T02:30:32+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/advancedUsage.html</loc>
-<lastmod>2021-05-20T01:33:27+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/advancedUsage.html</loc>
+  <lastmod>2021-05-20T02:30:15+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/api/</loc>
-<lastmod>2021-05-20T01:32:40+00:00</lastmod>
+  <loc>https://en.attojs.com/api/</loc>
+  <lastmod>2021-05-20T02:29:29+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/api/global-options.html</loc>
-<lastmod>2021-05-20T01:32:39+00:00</lastmod>
+  <loc>https://en.attojs.com/api/global-options.html</loc>
+  <lastmod>2021-05-20T02:29:28+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/api/pagination.html</loc>
-<lastmod>2021-05-20T01:32:47+00:00</lastmod>
+  <loc>https://en.attojs.com/api/pagination.html</loc>
+  <lastmod>2021-05-20T02:29:32+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/api/loadMore.html</loc>
-<lastmod>2021-05-20T01:32:43+00:00</lastmod>
+  <loc>https://en.attojs.com/api/loadMore.html</loc>
+  <lastmod>2021-05-20T02:29:30+00:00</lastmod>
 </url>
 <url>
-<loc>https://en.attojs.com/guide/documentation/refresh-on-window-focus.html</loc>
-<lastmod>2021-05-20T01:33:49+00:00</lastmod>
+  <loc>https://en.attojs.com/guide/documentation/refresh-on-window-focus.html</loc>
+  <lastmod>2021-05-20T02:30:38+00:00</lastmod>
 </url>
 </urlset>
