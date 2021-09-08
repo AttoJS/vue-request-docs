@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.attojs.org/index.html</loc>
+    <loc>https://en.attojs.org/index.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/api/global-options.html</loc>
+    <loc>https://en.attojs.org/api/global-options.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/api/index.html</loc>
+    <loc>https://en.attojs.org/api/index.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/api/loadMore.html</loc>
+    <loc>https://en.attojs.org/api/loadMore.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/api/pagination.html</loc>
+    <loc>https://en.attojs.org/api/pagination.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/getting-started.html</loc>
+    <loc>https://en.attojs.org/guide/getting-started.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/introduction.html</loc>
+    <loc>https://en.attojs.org/guide/introduction.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/cacheKey.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/cacheKey.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/dataFetching.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/dataFetching.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/debounce.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/debounce.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/errorRetry.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/errorRetry.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/globalOptions.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/globalOptions.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/loadMore.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/loadMore.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/loadingDelay.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/loadingDelay.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/manual.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/manual.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/mutation.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/mutation.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/pagination.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/pagination.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/polling.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/polling.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/queries.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/queries.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/ready.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/ready.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/refreshDeps.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/refreshDeps.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/refreshOnWindowFocus.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/refreshOnWindowFocus.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
   <url>
-    <loc>https://www.attojs.org/guide/documentation/throttle.html</loc>
+    <loc>https://en.attojs.org/guide/documentation/throttle.html</loc>
     <lastmod>2021-09-08T10:05:02.339Z</lastmod>
   </url>
 </urlset>
