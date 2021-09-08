@@ -1,10 +1,10 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.attojs.com/www-com-sitemap.xml
-Sitemap: https://cn.attojs.com/cn-com-sitemap.xml
-Sitemap: https://en.attojs.com/en-com-sitemap.xml
+Sitemap: https://www.attojs.com/sitemap.xml
+Sitemap: https://cn.attojs.com/sitemap.xml
+Sitemap: https://en.attojs.com/sitemap.xml
 
-Sitemap: https://cn.attojs.org/cn-org-sitemap.xml
-Sitemap: https://en.attojs.org/en-org-sitemap.xml
-Sitemap: https://www.attojs.org/www-org-sitemap.xml
+Sitemap: https://cn.attojs.org/sitemap.xml
+Sitemap: https://en.attojs.org/sitemap.xml
+Sitemap: https://www.attojs.org/sitemap.xml
