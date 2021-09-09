@@ -3,14 +3,10 @@ Allow: /
 
 Sitemap: https://www.attojs.com/sitemap.xml
 Sitemap: https://www.attojs.com/sitemap-lang.xml
-Sitemap: https://cn.attojs.com/sitemap.xml
-Sitemap: https://cn.attojs.com/sitemap-lang.xml
 Sitemap: https://en.attojs.com/sitemap.xml
 Sitemap: https://en.attojs.com/sitemap-lang.xml
 
 Sitemap: https://cn.attojs.org/sitemap.xml
 Sitemap: https://cn.attojs.org/sitemap-lang.xml
-Sitemap: https://en.attojs.org/sitemap.xml
-Sitemap: https://en.attojs.org/sitemap-lang.xml
 Sitemap: https://www.attojs.org/sitemap.xml
 Sitemap: https://www.attojs.org/sitemap-lang.xml
