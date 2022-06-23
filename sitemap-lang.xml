@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.attojs.org/index.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/api/global-options.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/api/index.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/api/loadMore.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/api/pagination.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/gettingStarted.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/introduction.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/cacheKey.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/dataFetching.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/debounce.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/errorRetry.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/globalOptions.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/loadMore.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/loadingDelay.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/manual.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/mutation.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/pagination.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/polling.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/queries.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/ready.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/refreshDeps.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/refreshOnWindowFocus.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
   <url>
     <loc>https://www.attojs.org/guide/documentation/throttle.html</loc>
-    <lastmod>2022-06-23T08:43:18.230Z</lastmod>
+    <lastmod>2022-06-23T08:54:53.392Z</lastmod>
   </url>
 </urlset>
   
