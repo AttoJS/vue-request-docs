@@ -10,3 +10,13 @@ Sitemap: https://cn.attojs.org/sitemap.xml
 Sitemap: https://cn.attojs.org/sitemap-lang.xml
 Sitemap: https://www.attojs.org/sitemap.xml
 Sitemap: https://www.attojs.org/sitemap-lang.xml
+
+Sitemap: https://v1.attojs.com/sitemap.xml
+Sitemap: https://v1.attojs.com/sitemap-lang.xml
+Sitemap: https://v1.en.attojs.com/sitemap.xml
+Sitemap: https://v1.en.attojs.com/sitemap-lang.xml
+
+Sitemap: https://v1.cn.attojs.org/sitemap.xml
+Sitemap: https://v1.cn.attojs.org/sitemap-lang.xml
+Sitemap: https://v1.attojs.org/sitemap.xml
+Sitemap: https://v1.attojs.org/sitemap-lang.xml
